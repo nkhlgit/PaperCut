@@ -1,6 +1,7 @@
 '''
 Created on 16 Oct. 2017 
 @author: nikhils
+Download the user_list.csv and print_summary_by_user.csv from PaperCut User Reports and same them in "c:\tmp" location
 This script read email address of users from "user_list.csv" and map them with user ID in "print_summary_by_user.csv" 
 The Output file is "print_summary_by_user_Email.csv"
 '''

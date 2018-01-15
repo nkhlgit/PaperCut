@@ -16,7 +16,7 @@ import datetime, dateutil.parser
 
 if __name__ == '__main__':
     os.chdir('c:\\tmp\\')
-    inFile= 'printlog_template.csv'
+    inFile= 'Joblogs_template.csv'
     df = pd.read_csv(inFile)
 	# # Replace the localhost with IP/Hostname of your PaperCut Application Server
     host_name = 'localhost'

@@ -1,5 +1,8 @@
 /*9-01-18@nikhil
-This is to Import all jobs from C:\Tmp directory from JobLogs_Template.csv
+This will use PaperCut WebXML API to to connect PaperCut. Please check the IP and Token in follwing lines of script as per your PaperCut Server.
+ v.Param[0].Arg1 = "token" 
+req, err := http.NewRequest("POST", "http://127.0.0.1:9191/rpc/api/xmlrpc", bytes.NewBuffer([]byte(output)))
+This will  read the CSV and import Job logs from "c:\temp\Joblog_template.csv" to PaperCut Server
 */
 
 package main

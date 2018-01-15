@@ -2,7 +2,8 @@
 Created on 13 Sep. 2017
 @author: nikhils
 
-This wull create UserIdProperty.csv' in C:\temp folder .
+List down properties of users. This wull create UserIdProperty.csv' in C:\temp folder..
+UserID','account-selection.mode','account-selection.can-charge-personal','account-selection.can-charge-shared-from-list','account-selection.can-charge-shared-by-pin''auto-shared-account','default-shared-account'
 '''
 from xmlrpc import client
 import os

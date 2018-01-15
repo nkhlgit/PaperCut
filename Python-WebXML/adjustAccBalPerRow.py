@@ -1,9 +1,10 @@
 '''
-Created on 25 Sep. 2017
-@author: nikhil
-This will read the aub.csv from c:\\tmp directory and adhust the balance.
-
-
+Created on 25 Sep. 2017 @author: nikhil
+This will read the "aub.csv" from c:\\tmp directory. Skip first row. raed the user ID and balance to balance .
+The abub.csv format should be like:
+User,amount
+Tom,10
+john,20
 '''
 
 from xmlrpc import client

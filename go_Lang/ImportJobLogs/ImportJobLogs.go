@@ -10,8 +10,6 @@ import (
 	"encoding/csv"
 	"encoding/xml"
 	"fmt"
-	//	"io/ioutil"
-	//"log"
 	"net/http"
 	"os"
 	"strings"

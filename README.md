@@ -17,10 +17,10 @@ Contains python script to play with reports and csv file.
 		"printPer.py"   i.e. without argument will list Print per hour by default
 		"printPer.py a" will print all data
 		"printPer.py wd" will print week and day  
-	
-	
+		
 # Go:
 Conatin Scripts in Go Lang to Perform specific tasks.
+	
 	##	ImportJobLogs:
 		This will use PaperCut WebXML API to to connect PaperCut. Please check the IP and Token in follwing lines of script as per your PaperCut Server.
 		v.Param[0].Arg1 = "token" 

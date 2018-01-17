@@ -19,7 +19,7 @@ Contains python script to play with reports and csv file.
 		"printPer.py wd" will print week and day  
 	
 	
-# go:
+# Go:
 Conatin Scripts in Go Lang to Perform specific tasks.
 	##	ImportJobLogs:
 		This will use PaperCut WebXML API to to connect PaperCut. Please check the IP and Token in follwing lines of script as per your PaperCut Server.

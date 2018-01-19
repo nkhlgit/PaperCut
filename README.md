@@ -38,7 +38,7 @@ Pros=> Remove the dependency to access Server terminal access to run server comm
 Contains python script to play with reports and csv file.
 	
 ## addEmailPrintSummery.py: 
-		Run "user list" and "User printing - summary" Reports from "PaperCut web-admin >> Reports >> User" in CSV format to get "user_list.csv" and "print_summary_by_user.csv" . Save the both files in  "c:\tmp" location. Run this script. This script read email address of users from  and map them with user ID in the Output file is "print_summary_by_user_Email.csv" in "c:\tmp"
+Run "user list" and "User printing - summary" Reports from "PaperCut web-admin >> Reports >> User" in CSV format to get "user_list.csv" and "print_summary_by_user.csv" . Save the both files in  "c:\tmp" location. Run this script. This script read email address of users from  and map them with user ID in the Output file is "print_summary_by_user_Email.csv" in "c:\tmp"
 	
 ##  printPer.py:
 Input file    =>  print_logs_by_printer.csv in c:\tmp\ folder 
